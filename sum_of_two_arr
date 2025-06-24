@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main
+public class sum_of_two_arr
 {
 	public static void main(String[] args) {
 		int[] arr1 = new int[5];
